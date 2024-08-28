@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- Bioinfo Student
+- Gießen
+- Trying to get presentable Projects running :)
+- Mostly private Repos
 <!--
 **MaximilianFenner/MaximilianFenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
